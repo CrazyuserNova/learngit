@@ -1,7 +1,7 @@
 Git is a distributed version control system.
 Git is free software under GPL.
 Git has a mutable index called stage
-Git tracks changes.
+Git tracks changes of files.
 
 $ mkdir learngit
 $ cd learngit
@@ -23,4 +23,3 @@ $ git log
 $ git reflog
 $ git reset
 $ git revert
- 
