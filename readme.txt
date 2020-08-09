@@ -15,3 +15,9 @@ $ git commit -m "wrote a readme file"
 $ git add file1.txt
 $ git add file2.txt file3.txt
 $ git commit -m "add 3 files."
+
+$ git status
+$ git log
+$ git reflog
+$ git reset
+$ git revert
